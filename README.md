@@ -3,8 +3,7 @@
 In this project, I was tasked with fixing the broken/unfinished HTML and CSS code (as provided by Codecademy). It's a responsive homepage for a photography company called 'Fotomatic'. I was supposed to follow a design spec for each screen size (desktop, tablet, mobile).
 
 ## Languages
-- HTML
-- CSS
+[![My Skills](https://skillicons.dev/icons?i=html,css)](https://skillicons.dev)
 
 ## Skills learnt
 - Flexbox
